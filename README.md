@@ -5,6 +5,7 @@ The project is divided into four parts: Cleaning and Preprocessing the Data, Exp
 Our final goal is to build a model, which can predict whether the income of a random adult American citizen is less or greater than 50000$ a year based on given features, 
 such as age, education, occupation, gender, race, etc.
 
+
 ##Data
 Both training and test datasets are supplied along with the attribute names, have all been sourced from the UCI Machine Learning Repository (https://archive.ics.uci.edu/ml/datasets/adult).
 Both Datasets contain 15 variables (14 descriptive and 1 target), the dataset contains 32561 rows.
